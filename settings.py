@@ -25,7 +25,8 @@ SECRET_KEY = 'ag4-wsvtga5apy0bj^*9axmr17a$+(@3^#rwr=8ox^!&in(41b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['contactusanupam.herokuapp.com']
+ALLOWED_HOSTS = ['contactusanupam.herokuapp.com',
+                '127.0.0.1']
 
 
 # Application definition
